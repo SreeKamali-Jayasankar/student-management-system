@@ -26,10 +26,11 @@ The  Student Management System is a Python-based mini project that allows users 
 
 ```text
 Student-Management-System/
+│── README.md
 │── sms.py
 │── student management system.code-workspace
-│── students.json
-└── README.md
+└── students.json
+
 ```
 
 ## How to Run
