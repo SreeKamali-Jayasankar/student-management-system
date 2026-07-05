@@ -1,0 +1,74 @@
+[
+    {
+        "id": "101",
+        "name": "Anita",
+        "age": "20",
+        "course": "Python"
+    },
+    {
+        "id": "102",
+        "name": "Arvind",
+        "age": "20",
+        "course": "Python"
+    },
+    {
+        "id": "103",
+        "name": "Arjun",
+        "age": "20",
+        "course": "Python"
+    },
+    {
+        "id": "104",
+        "name": "Aditi",
+        "age": "21",
+        "course": "Python"
+    },
+    {
+        "id": "105",
+        "name": "Aadhav",
+        "age": "21",
+        "course": "Python"
+    },
+    {
+        "id": "106",
+        "name": "Cheran",
+        "age": "21",
+        "course": "AI"
+    },
+    {
+        "id": "107",
+        "name": "Dhanush",
+        "age": "21",
+        "course": "AI"
+    },
+    {
+        "id": "108",
+        "name": "Ezhilan",
+        "age": "20",
+        "course": "AI"
+    },
+    {
+        "id": "109",
+        "name": "Gandhi",
+        "age": "22",
+        "course": "AI"
+    },
+    {
+        "id": "110",
+        "name": "Kamali",
+        "age": "21",
+        "course": "Python"
+    },
+    {
+        "id": "111",
+        "name": "Lavanya",
+        "age": "20",
+        "course": "AI"
+    },
+    {
+        "id": "112",
+        "name": "Manisha",
+        "age": "22",
+        "course": "AI"
+    }
+]
